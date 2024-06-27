@@ -14,8 +14,7 @@ Digit_Recognition/
 ├── handwritten_digits/    # Handwritten digit images
 ├── ja/                    # Japanese version files
 ├── ko/                    # Korean version files
-├── zh/                    # Chinese version files
-└── mnist_784.pth          # Trained model file
+└── zh/                    # Chinese version files
 ```
 
 ## Language Support
